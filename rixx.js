@@ -22,8 +22,8 @@ chats: {},
 ...(global.db || {})
 }
 
-global.ownerName = '𝒀𝑨𝑵𝑵-𝑩𝑶𝑻𝒁'
-global.ownerNumber = ["085817964592@s.whatsapp.net"]
+global.ownerName = DenzzVIP'
+global.ownerNumber = ["085723219491@s.whatsapp.net"]
 global.prefa = ['','.']
 global.mess = {
     wait: 'Wait Sis Please be patient',
@@ -229,7 +229,7 @@ rixx.sendMessage(rixxbotwhatsapp.chat, {text: `┏━━⊱ 𝙄𝙉𝙁𝙊 �
 ╠➤addakses @
 ╠➤delakses @
 ╠➤kick @
-╚════[ 𝒀𝑨𝑵𝑵-𝑩𝑶𝑻𝒁 𝑪𝑯𝑨𝑵𝑵𝑬𝑳 ]══════⊱
+╚════[ DenzzBannedVIP ]══════⊱
 ╔══════[ 𝘽𝙐𝙂 𝙈𝙀𝙉𝙐 ]══════⊱
 ╠➤ 🌷 62xxx
 ╠➤ ☠️ 62xxx
@@ -280,7 +280,7 @@ rixx.sendMessage(rixxbotwhatsapp.chat, {text: `┏━━⊱ 𝙄𝙉𝙁𝙊 �
 ╠➤bugneko 62xxxxx
 ╠➤bughentai 62xxxxx
 ╠➤bugvirtex 62xxxxx
-╚════[ 𝒀𝑨𝑵𝑵-𝑩𝑶𝑻𝒁 𝑪𝑯𝑨𝑵𝑵𝑬𝑳 ]══════⊱`}, {quoted: kafloc})
+╚════[ DenzzBannedVIP ]══════⊱`}, {quoted: kafloc})
 }
 break
 case 'kick': {
@@ -315,9 +315,9 @@ textsewa = `
 ╠➤ AKSES BOT 5K AJA 
 ╠➤ SEWA BOT 15K/MINGGU BISA PAKE GRUP MU
 ╠➤ SEWA PERMANEN 50K
-╠➤ SC BOT? 30K
-╠➤ wa.me/6285817964592
-╚════[ 𝒀𝑨𝑵𝑵-𝑩𝑶𝑻𝒁 𝑪𝑯𝑨𝑵𝑵𝑬𝑳 ]══════⊱
+╠➤ SC BOT? 45K
+╠➤ wa.me/6285723219491
+╚════[ DenzzBannedVIP ]══════⊱
 `
 rixxbotwhatsapp.reply(textsewa)
 break
